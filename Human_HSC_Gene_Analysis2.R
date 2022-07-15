@@ -3,7 +3,6 @@
 # trajectories using microarray data https://www.ncbi.nlm.nih.gov/pubmed/?term=21241896.
 #
 # @author: Cameron Mirhossaini (cameronmirhossaini@gmail.com) ; Jason Cosgrove (jason.cosgrove@curie.fr)
-# @date:   28/08/2019
 ###############################################################################################
 
 #load in the required libraries
