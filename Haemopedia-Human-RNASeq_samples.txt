@@ -1,0 +1,43 @@
+sampleId	cellTypeAbbreviation	celltype	organism	long celltype	cell_lineage	immunophenotype	tissue	donor	totalReads	mappedPercent	assignedPercent
+MemB.1	MemB	Memory B Cell	Homo Sapiens	Memory B Cell	B Cell Lineage	CD3:- CD19:+ CD27:+	Peripheral Blood	Donor1	18699477	89.24	63.72
+MemB.2	MemB	Memory B Cell	Homo Sapiens	Memory B Cell	B Cell Lineage	CD3:- CD19:+ CD27:+	Peripheral Blood	Donor2	17747099	89.89	60.29
+MemB.3	MemB	Memory B Cell	Homo Sapiens	Memory B Cell	B Cell Lineage	CD3:- CD19:+ CD27:+	Peripheral Blood	Donor3	17434867	90.06	63.66
+NveB.1	NveB	Naive B Cell	Homo Sapiens	Naive B Cell	B Cell Lineage	CD3:- CD19:+ CD27:-	Peripheral Blood	Donor1	18521249	90.24	59.43
+NveB.2	NveB	Naive B Cell	Homo Sapiens	Naive B Cell	B Cell Lineage	CD3:- CD19:+ CD27:-	Peripheral Blood	Donor2	17695868	90.46	62.28
+NveB.3	NveB	Naive B Cell	Homo Sapiens	Naive B Cell	B Cell Lineage	CD3:- CD19:+ CD27:-	Peripheral Blood	Donor3	17938105	89.69	61.22
+NveB.4	NveB	Naive B Cell	Homo Sapiens	Naive B Cell	B Cell Lineage	CD3:- CD19:+ CD27:-	Peripheral Blood	Donor4	18574549	90.17	60.45
+NveB.5	NveB	Naive B Cell	Homo Sapiens	Naive B Cell	B Cell Lineage	CD3:- CD19:+ CD27:-	Peripheral Blood	Donor5	17976899	89.87	62.09
+myDC.1	myDC	Myeloid Dendritic Cell	Homo Sapiens	Myeloid Dendritic Cell	Dendritic Cell Lineage	CD14:- BDCA1:+ BDCA2:- CD123:-	Peripheral Blood	Donor1	18259974	90.01	62.08
+myDC.2	myDC	Myeloid Dendritic Cell	Homo Sapiens	Myeloid Dendritic Cell	Dendritic Cell Lineage	CD14:- BDCA1:+ BDCA2:- CD123:-	Peripheral Blood	Donor2	17157039	89.41	67.87
+myDC.3	myDC	Myeloid Dendritic Cell	Homo Sapiens	Myeloid Dendritic Cell	Dendritic Cell Lineage	CD14:- BDCA1:+ BDCA2:- CD123:-	Peripheral Blood	Donor5	20078914	90.26	59.69
+myDC123.1	myDC123	Myeloid Dendritic Cell CD123+	Homo Sapiens	Myeloid Dendritic Cell CD123+	Dendritic Cell Lineage	CD3:- CD14:- BDCA2:- BDCA1:+ CD123:Int	Peripheral Blood	Donor1	18795561	89.84	64.55
+myDC123.2	myDC123	Myeloid Dendritic Cell CD123+	Homo Sapiens	Myeloid Dendritic Cell CD123+	Dendritic Cell Lineage	CD3:- CD14:- BDCA2:- BDCA1:+ CD123:Int	Peripheral Blood	Donor1	19376369	90.37	65.15
+pDC.1	pDC	Plasmacytoid Dendritic Cell	Homo Sapiens	Plasmacytoid Dendritic Cell	Dendritic Cell Lineage	CD14:- BDCA1:- BDCA2:+ CD123:Hi	Peripheral Blood	Donor1	19339128	90.93	61.83
+pDC.2	pDC	Plasmacytoid Dendritic Cell	Homo Sapiens	Plasmacytoid Dendritic Cell	Dendritic Cell Lineage	CD14:- BDCA1:- BDCA2:+ CD123:Hi	Peripheral Blood	Donor5	19579971	90.63	60.65
+Eo.1	Eo	Eosinophil	Homo Sapiens	Eosinophil	Eosinophil Lineage	Miltenyi Biotec Eosinophil Isolation Kit Positive	Peripheral Blood	Donor1	19330680	92.84	66.77
+Eo.2	Eo	Eosinophil	Homo Sapiens	Eosinophil	Eosinophil Lineage	Miltenyi Biotec Eosinophil Isolation Kit Positive	Peripheral Blood	Donor2	21222199	92.66	62.3
+Mono.1	Mono	Monocyte	Homo Sapiens	Monocyte	Macrophage Lineage	CD14:Hi BDCA1:- BDCA2:- CD123:Lo	Peripheral Blood	Donor1	20138921	89.39	63.68
+Mono.2	Mono	Monocyte	Homo Sapiens	Monocyte	Macrophage Lineage	CD14:Hi BDCA1:- BDCA2:- CD123:Lo	Peripheral Blood	Donor2	19770037	90.92	65.55
+Mono.3	Mono	Monocyte	Homo Sapiens	Monocyte	Macrophage Lineage	CD14:Hi BDCA1:- BDCA2:- CD123:Lo	Peripheral Blood	Donor3	17411822	91.01	67.22
+Mono.4	Mono	Monocyte	Homo Sapiens	Monocyte	Macrophage Lineage	CD14:Hi BDCA1:- BDCA2:- CD123:Lo	Peripheral Blood	Donor4	16344160	91.07	69.18
+Mono.5	Mono	Monocyte	Homo Sapiens	Monocyte	Macrophage Lineage	CD14:Hi BDCA1:- BDCA2:- CD123:Lo	Peripheral Blood	Donor5	19503372	90.36	71.59
+MonoNonClassic.1	MonoNonClassic	Non-classical monocyte	Homo Sapiens	Non-classical monocyte	Macrophage Lineage	CD14:Int BDCA1:- BDCA2:- CD123:Int	Peripheral Blood	Donor1	19397129	91.13	66.59
+MonoNonClassic.2	MonoNonClassic	Non-classical monocyte	Homo Sapiens	Non-classical monocyte	Macrophage Lineage	CD14:Int BDCA1:- BDCA2:- CD123:Int	Peripheral Blood	Donor2	19634043	91.1	65.48
+Neut.1	Neut	Neutrophil	Homo Sapiens	Neutrophil	Neutrophil Lineage	Miltenyi Biotec Eosinophil Isolation Kit Negative	Peripheral Blood	Donor1	18828271	92.91	65.15
+Neut.2	Neut	Neutrophil	Homo Sapiens	Neutrophil	Neutrophil Lineage	Miltenyi Biotec Eosinophil Isolation Kit Negative	Peripheral Blood	Donor3	18648625	92.0	66.53
+Neut.3	Neut	Neutrophil	Homo Sapiens	Neutrophil	Neutrophil Lineage	Miltenyi Biotec Eosinophil Isolation Kit Negative	Peripheral Blood	Donor5	18168181	92.29	68.24
+NK.1	NK	Natural Killer Cell	Homo Sapiens	Natural Killer Cell	NK Cell Lineage	CD3:- CD19:- CD56:+	Peripheral Blood	Donor1	18191539	91.14	61.74
+NK.2	NK	Natural Killer Cell	Homo Sapiens	Natural Killer Cell	NK Cell Lineage	CD3:- CD19:- CD56:+	Peripheral Blood	Donor2	18288749	91.11	63.16
+NK.3	NK	Natural Killer Cell	Homo Sapiens	Natural Killer Cell	NK Cell Lineage	CD3:- CD19:- CD56:+	Peripheral Blood	Donor3	21594843	90.52	63.19
+NK.4	NK	Natural Killer Cell	Homo Sapiens	Natural Killer Cell	NK Cell Lineage	CD3:- CD19:- CD56:+	Peripheral Blood	Donor4	17783221	91.08	61.74
+NK.5	NK	Natural Killer Cell	Homo Sapiens	Natural Killer Cell	NK Cell Lineage	CD3:- CD19:- CD56:+	Peripheral Blood	Donor5	18519710	90.41	63.25
+CD4T.1	CD4T	CD4:+ T Cell	Homo Sapiens	CD4+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD4+	Peripheral Blood	Donor1	17376220	89.16	66.58
+CD4T.2	CD4T	CD4:+ T Cell	Homo Sapiens	CD4+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD4+	Peripheral Blood	Donor2	18933650	89.83	61.53
+CD4T.3	CD4T	CD4:+ T Cell	Homo Sapiens	CD4+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD4+	Peripheral Blood	Donor3	18153732	90.43	64.28
+CD4T.4	CD4T	CD4:+ T Cell	Homo Sapiens	CD4+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD4+	Peripheral Blood	Donor4	19261079	88.68	62.39
+CD4T.5	CD4T	CD4:+ T Cell	Homo Sapiens	CD4+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD4+	Peripheral Blood	Donor5	18605547	89.08	66.88
+CD8T.1	CD8T	CD8:+ T Cell	Homo Sapiens	CD8+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD8+	Peripheral Blood	Donor1	17846615	89.8	65.79
+CD8T.2	CD8T	CD8:+ T Cell	Homo Sapiens	CD8+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD8+	Peripheral Blood	Donor2	20145355	90.04	59.99
+CD8T.3	CD8T	CD8:+ T Cell	Homo Sapiens	CD8+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD8+	Peripheral Blood	Donor3	18006146	90.69	63.64
+CD8T.4	CD8T	CD8:+ T Cell	Homo Sapiens	CD8+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD8+	Peripheral Blood	Donor4	17498562	90.61	63.66
+CD8T.5	CD8T	CD8:+ T Cell	Homo Sapiens	CD8+ T Cell	T Cell Lineage	CD3:+ CD19:- CD56:- CD8+	Peripheral Blood	Donor5	18401033	88.25	66.09
