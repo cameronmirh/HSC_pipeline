@@ -6,3 +6,8 @@ This pipeline formats and normalizes data, then trains/validates/tests XGBoost c
 - Slide Deck
 - Report
 
+Henry the Hematopoietic Lineage Tree encourages you to take a look and email me (cameronmirhossaini [@] gmail) if you have any questions!
+
+<p align="center">
+<img width="341" alt="Screen Shot 2022-10-26 at 1 00 27 PM" src="https://user-images.githubusercontent.com/53825687/198113471-0d701bc8-712c-4d82-ad1a-c84cc6acc6b1.png">
+</p>
