@@ -2,7 +2,7 @@
 This pipeline reads microarray data collected from [Densely interconnected transcriptional circuits control cell states in human hematopoiesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3049864/) and [dataset available here](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE24759).
 
 This pipeline formats and normalizes data, then trains/validates/tests XGBoost classifier on it. Links to documents are available below:
-- Code
+- [Code](https://github.com/cameronmirh/HSC_pipeline/blob/main/Human_HSC_Gene_Analysis2.R)
 - [Slide Deck](https://drive.google.com/file/d/1BfJMwGhYqauHEpEN0OOPOae7ykh3rDk7/view?usp=sharing)
 - Report
 
