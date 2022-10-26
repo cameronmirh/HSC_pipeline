@@ -3,7 +3,7 @@ This pipeline reads microarray data collected from [Densely interconnected trans
 
 This pipeline formats and normalizes data, then trains/validates/tests XGBoost classifier on it. Links to documents are available below:
 - Code
-- [Slide Deck](https://docs.google.com/presentation/d/1FtSLMbiVfn2AYgNpFgVzAUAxj5VM-6RI/edit?usp=sharing&ouid=113890828168765706979&rtpof=true&sd=true)
+- [Slide Deck](https://drive.google.com/file/d/1BfJMwGhYqauHEpEN0OOPOae7ykh3rDk7/view?usp=sharing)
 - Report
 
 Henry the Hematopoietic Lineage Tree encourages you to take a look and email me (cameronmirhossaini [@] gmail) if you have any questions!
